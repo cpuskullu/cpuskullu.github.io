@@ -9,12 +9,16 @@ location: "Çanakkale, Türkiye"
 ---
 Kursumuz, öğretmenlerin ve öğretmen adaylarının “Temel Eğitimde Astronomi” konusunda bilgi ve becerilerini geliştirmek, her kesimden katılımcıların bilim merakını arttırmak amacı ile düzenlenmiştir.
 
-•	Milli Eğitim Bakanlığı’nın yeni müfretadına uygun, 
-•	İlk ve ortaöğretim için Astronomi ve Uzay Bilimleri konularını kapsayan bir içerik sunulmaktadır.
+<ul> 
+  <li> Milli Eğitim Bakanlığı’nın yeni müfretadına uygun, </li>
+  <li> İlk ve ortaöğretim için Astronomi ve Uzay Bilimleri konularını kapsayan bir içerik sunulmaktadır. </li>
+</ul>
 
 Ders İçerikleri
 ======
-•	Gezegenimizi ve Güneş Sistemini Tanıyalım
-•	Güneş Sistemi ve Ötesi: Uzay Araştırmaları
-•	Mevsimler ve İklim: Mevsimlerin Oluşumu
-•	Teleskoplar ve Kullanımı, Gökyüzünü tanıyalım
+<ul>
+  <li> Gezegenimizi ve Güneş Sistemini Tanıyalım </li>
+  <li> Güneş Sistemi ve Ötesi: Uzay Araştırmaları </li>
+  <li> Mevsimler ve İklim: Mevsimlerin Oluşumu </li>
+  <li> Teleskoplar ve Kullanımı, Gökyüzünü tanıyalım </li>
+</ul>
