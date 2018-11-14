@@ -9,6 +9,8 @@ redirect_from:
 ---
 
 
+<img src='homepage_sky_stars_sun.jpg'>
+
 <p>
 İşim gücüm budur benim, <br>
 Gökyüzünü boyarım her sabah, <br>
