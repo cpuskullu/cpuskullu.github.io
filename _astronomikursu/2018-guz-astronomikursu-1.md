@@ -1,5 +1,5 @@
 ---
-title: "Astronomi Kursu"
+title: "Güz 2018"
 collection: astronomikursu
 type: "Undergraduate course"
 permalink: /astronomikursu/2018-guz-astronomikursu-1
