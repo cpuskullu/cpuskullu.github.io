@@ -246,7 +246,7 @@ defaults:
    # _astronomikursu
   - scope:
       path: ""
-      type: teaching
+      type: astronomikursu
     values:
       layout: single
       author_profile: true
