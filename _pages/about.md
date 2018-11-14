@@ -9,9 +9,10 @@ redirect_from:
 ---
 <img src='images/homepage_sky_stars_sun.jpg'>
 <p>
-İşim gücüm budur benim, <br>
+<!-- İşim gücüm budur benim, <br>
 Gökyüzünü boyarım her sabah, <br>
 Hepiniz uykudayken. <br>
 Uyanır bakarsınız ki mavi. <br>
 </p>
 Orhan Veli
+-->
