@@ -11,30 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Astronomy and Space Sciences (with Physics), Ankara University, 2007
+* M.S. in Space Sciences and Technologies, Çanakkale University, 2010
+* Ph.D in Photometric Analyses of Exoplanet Transit Observations, Çanakkale University, 2016 (Dec.)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* March 2009: Research Assistant
+  * Çanakkale University
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* October 2016: Research Assistant, Dr.
+  * Çanakkale University
   
-Skills
+Research Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* In the Project: "From Binary Stars to Exoplanets", 2013 - 2016
+  * TÜBİTAK Science Research Project, Directed by A. Erdem, PhD.
+* In the Project: "Angular Momentum Evolution in Binary Stars", 2012 - 2015
+  * TÜBİTAK Science Research Project, Directed by F. Soydugan, PhD.
+* In the Project: "Pulsation Properties of Delta Scuti Stars", 2007 - 2010
+  * TÜBİTAK Science Research Project, Directed by E. Soydugan, PhD.
+* In the Projects for Society Education, 2009 - present
+  * by TÜBİTAK and various supporters.
 
 Publications
 ======
@@ -54,6 +52,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<!-- Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
