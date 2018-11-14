@@ -1,5 +1,5 @@
 ---
-title: "Güz 2018"
+title: "Astronomi Kursu - Güz 2018"
 collection: astronomikursu
 type: "Sertifika Programı"
 permalink: /astronomikursu/2018-guz-astronomikursu-1
