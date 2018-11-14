@@ -9,10 +9,7 @@ location: "Çanakkale, Türkiye"
 ---
 Kursumuz, öğretmenlerin ve öğretmen adaylarının “Temel Eğitimde Astronomi” konusunda bilgi ve becerilerini geliştirmek, her kesimden katılımcıların bilim merakını arttırmak amacı ile düzenlenmiştir.
 
-<ul> 
-  <li> Milli Eğitim Bakanlığı’nın yeni müfretadına uygun, </li>
-  <li> İlk ve ortaöğretim için Astronomi ve Uzay Bilimleri konularını kapsayan bir içerik sunulmaktadır. </li>
-</ul>
+Milli Eğitim Bakanlığı’nın yeni müfretadına uygun, ilk ve ortaöğretim için Astronomi ve Uzay Bilimleri konularını kapsayan bir içerik sunulmaktadır.
 
 Ders İçerikleri
 ======
