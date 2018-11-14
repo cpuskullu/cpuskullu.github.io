@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "tr-TR" #en-US #tr-TR
-title                    : "Ana Sayfa"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Çağlar Püsküllü"
 description              : &description "Research scientist at Canakkale University"
@@ -59,7 +59,7 @@ yandex_site_verification :
 twitter:
   username               : &twitter
 facebook:
-  username               :
+  username               : 
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -91,8 +91,8 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           :
-  facebook         :
+  flickr           : "https://flickr.com/photos/blumarble"
+  facebook         : "https://www.facebook.com/profile.php?id=525488712"
   foursquare       :
   github           : "cpuskullu"
   google_plus      :
@@ -102,7 +102,7 @@ author:
   linkedin         :
   orcid            : "http://orcid.org/0000-0001-9213-0969"
   pinterest        :
-  soundcloud       :
+  soundcloud       : "https://soundcloud.com/blumarble"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
