@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "tr-TR" #en-US #tr-TR
-title                    : "Çağlar Püsküllü"
+title                    : "Ana Sayfa"
 title_separator          : "-"
 name                     : &name "Çağlar Püsküllü"
 description              : &description "Research scientist at Canakkale University"
