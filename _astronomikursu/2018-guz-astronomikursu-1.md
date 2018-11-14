@@ -1,6 +1,6 @@
 ---
 title: "Güz 2018"
-collection: teaching
+collection: astronomikursu
 type: "Sertifika Programı"
 permalink: /astronomikursu/2018-guz-astronomikursu-1
 venue: "ÇOMÜ FEF, D108"
