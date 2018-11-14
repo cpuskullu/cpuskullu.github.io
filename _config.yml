@@ -91,8 +91,8 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           : "https://flickr.com/photos/blumarble"
-  facebook         : "https://www.facebook.com/profile.php?id=525488712"
+  flickr           : "blumarble"
+  facebook         : "profile.php?id=525488712"
   foursquare       :
   github           : "cpuskullu"
   google_plus      :
@@ -102,7 +102,7 @@ author:
   linkedin         :
   orcid            : "http://orcid.org/0000-0001-9213-0969"
   pinterest        :
-  soundcloud       : "https://soundcloud.com/blumarble"
+  soundcloud       : "blumarble"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
