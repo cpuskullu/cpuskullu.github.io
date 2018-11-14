@@ -4,7 +4,7 @@ collection: astronomikursu
 type: "Undergraduate course"
 permalink: /astronomikursu/2019-bahar-astronomikursu-2
 venue: "ÇOMÜ"
-date: 2019-00-00
+date: 2019-02-01
 location: "Çanakkale, Türkiye"
 ---
 
