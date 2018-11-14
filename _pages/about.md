@@ -1,13 +1,13 @@
-/*---
+---
 permalink: /
-title: "Çağlar Püsküllü, PhD."
+title: "" #Çağlar Püsküllü, PhD.
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-*/
+
 
 <p>
 İşim gücüm budur benim, <br>
