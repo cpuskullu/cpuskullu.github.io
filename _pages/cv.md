@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<a href='http://aves.comu.edu.tr/cpuskullu/cv'>Check university CV page</a>
+
 Education
 ======
 * B.S. in Astronomy and Space Sciences (with Physics), Ankara University, 2007
