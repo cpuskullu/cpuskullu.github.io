@@ -9,7 +9,7 @@
 locale                   : "tr-TR" #en-US #tr-TR
 title                    : "Çağlar Püsküllü"
 title_separator          : "-"
-name                     : &name ""
+name                     : &name "Çağlar Püsküllü"
 description              : &description "Research scientist at Canakkale University"
 url                      : https://cpuskullu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
