@@ -19,4 +19,8 @@ Ders İçerikleri
 * Mevsimler ve İklim: Mevsimlerin Oluşumu
 * Teleskoplar ve Kullanımı, Gökyüzünü tanıyalım
 
+<br>
+<img src='astronomikursu-afis.jpg'>
+
+<br>
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdcJB7B6C771J8_OlOcO5CqbQbW0mopsJrJS7e2vfOlC2zY8Q/viewform?embedded=true" width="640" height="980" frameborder="0" marginheight="0" marginwidth="0">Yükleniyor...</iframe>
