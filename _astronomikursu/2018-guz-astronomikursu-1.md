@@ -23,4 +23,5 @@ Ders İçerikleri
 <img src='../images/astronomikursu-afis.jpg'>
 
 <br>
+Önkayıt formu sadece sınıf hazırlığı için gerekli olup, gerçek kayıt yerine geçmez. Kayıt için lütfen afişte belirtilen kanalları kullanınız.
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdcJB7B6C771J8_OlOcO5CqbQbW0mopsJrJS7e2vfOlC2zY8Q/viewform?embedded=true" width="640" height="980" frameborder="0" marginheight="0" marginwidth="0">Yükleniyor...</iframe>
