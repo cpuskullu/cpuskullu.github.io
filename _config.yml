@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "tr-TR" #en-US #tr-TR
-title                    : "Homepage"
+title                    : "Çağlar Püsküllü"
 title_separator          : "-"
-name                     : 
+name                     : &name ""
 description              : &description "Research scientist at Canakkale University"
 url                      : https://cpuskullu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Çağlar Püsküllü"
+  name             : #"Çağlar Püsküllü"
   avatar           : "profile.png"
   bio              : "A home planet lover astronomer"
   location         : "Çanakkale University, <br> Physics Department"
