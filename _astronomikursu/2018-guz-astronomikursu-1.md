@@ -17,7 +17,17 @@ Ders İçerikleri
 * Gezegenimizi ve Güneş Sistemini Tanıyalım
 * Güneş Sistemi ve Ötesi: Uzay Araştırmaları
 * Mevsimler ve İklim: Mevsimlerin Oluşumu
-* Teleskoplar ve Kullanımı, Gökyüzünü tanıyalım
+* Teleskoplar ve Kullanımı
+* Gökyüzünü tanıyalım
+
+Popüler Konular Üzerine Söyleşiler
+------
+* Uzayda Yaşam var mı?
+* Yaşanabilir başka gezegenlere gidilebilir mi?
+* Uzay Araştırmalarında Son Gelişmeler
+* Popüler Kültürde Uzay
+* Gökyüzü Fotoğrafçılığı
+* Antik Çağda Astronomi ve Mitolojiler
 
 <br>
 <img src='../images/astronomikursu-afis.jpg'>
