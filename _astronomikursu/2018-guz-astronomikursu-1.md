@@ -7,7 +7,7 @@ venue: "ÇOMÜ FEF, D108"
 date: 2018-12-01
 location: "Çanakkale, Türkiye"
 ---
-Kursumuz, öğretmenlerin ve öğretmen adaylarının “Temel Eğitimde Astronomi” konusunda bilgi ve becerilerini geliştirmek, her kesimden katılımcıların bilim merakını arttırmak amacı ile düzenlenmiştir.
+Kursumuz, öğretmenlerin ve öğretmen adaylarının “Temel Eğitimde Astronomi” konusunda bilgi ve becerilerini geliştirmek, her kesimden katılımcıların bilim merakını arttırmak amacı ile düzenlenmiştir. <h6> Ayrıntılı bilgi için başlığa tıklayınız. </h6>
 
 * Milli Eğitim Bakanlığı’nın yeni müfretadına uygun, 
 * İlk ve ortaöğretim için Astronomi ve Uzay Bilimleri konularını kapsayan bir içerik sunulmaktadır.
