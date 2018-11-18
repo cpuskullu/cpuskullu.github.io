@@ -17,7 +17,7 @@ Ders İçerikleri
 * Gezegenimizi ve Güneş Sistemini Tanıyalım
 * Güneş Sistemi ve Ötesi: Uzay Araştırmaları
 * Mevsimler ve İklim: Mevsimlerin Oluşumu
-* Teleskoplar ve Kullanımı
+* Teleskoplar ve Kullanımı (Bir ders, ÇOMÜ Gözlemevinde yapılacaktır)
 * Gökyüzünü tanıyalım
 
 Popüler Konular Üzerine Söyleşiler
