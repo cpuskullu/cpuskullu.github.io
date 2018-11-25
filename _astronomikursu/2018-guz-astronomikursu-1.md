@@ -29,6 +29,11 @@ Popüler Konular Üzerine Söyleşiler
 * Gökyüzü Fotoğrafçılığı
 * Antik Çağda Astronomi ve Mitolojiler
 
+Kaynaklar
+======
+* Astronomi ve Uzay Bilimleri, MEB Yayınları: http://www.eba.gov.tr/ekitap?icerik-id=6840
+* Astronomi ve Uzay Bilimleri, ATA Yayınları: http://www.eba.gov.tr/ekitap?icerik-id=6362
+
 <br>
 <img src='../images/astronomikursu-afis.jpg'>
 
