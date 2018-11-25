@@ -31,8 +31,8 @@ Popüler Konular Üzerine Söyleşiler
 
 Kaynaklar
 ======
-* Astronomi ve Uzay Bilimleri, MEB Yayınları: http://www.eba.gov.tr/ekitap?icerik-id=6840
-* Astronomi ve Uzay Bilimleri, ATA Yayınları: http://www.eba.gov.tr/ekitap?icerik-id=6362
+* <a href="http://www.eba.gov.tr/ekitap?icerik-id=6840">Astronomi ve Uzay Bilimleri, MEB Yayınları</a>
+* <a href="http://www.eba.gov.tr/ekitap?icerik-id=6362">Astronomi ve Uzay Bilimleri, ATA Yayınları</a>
 
 <br>
 <img src='../images/astronomikursu-afis.jpg'>
