@@ -4,10 +4,10 @@ collection: astronomikursu
 type: "Sertifika Programı"
 permalink: /astronomikursu/2018-guz-astronomikursu-1
 venue: "ÇOMÜ FEF, D108"
-date: 2018-12-01
+date: 2018-12-08
 location: "Çanakkale, Türkiye"
 ---
-Kursumuz, öğretmenlerin ve öğretmen adaylarının “Temel Eğitimde Astronomi” konusunda bilgi ve becerilerini geliştirmek, her kesimden katılımcıların bilim merakını arttırmak amacı ile düzenlenmiştir. Ayrıntılı bilgi için başlığa tıklayınız.
+Kursumuz, öğretmenlerin ve öğretmen adaylarının “Temel Eğitimde Astronomi” konusunda bilgi ve becerilerini geliştirmek, her kesimden katılımcıların bilim merakını arttırmak amacı ile düzenlenmiştir. Ayrıntılı bilgi için başlığa tıklayınız. Kursumuza ilgi gösterenlere teşekkür ederiz, 20 kişilik kontejyan dolana kadar kayıtlar açık kalacaktır. Kursun başlama tarihi 08 Aralık 2018 olarak belirlenmiştir.
 
 * Milli Eğitim Bakanlığı’nın yeni müfretadına uygun, 
 * İlk ve ortaöğretim için Astronomi ve Uzay Bilimleri konularını kapsayan bir içerik sunulmaktadır.
