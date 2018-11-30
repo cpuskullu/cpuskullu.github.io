@@ -7,7 +7,7 @@ venue: "ÇOMÜ FEF, D108"
 date: 2018-12-08
 location: "Çanakkale, Türkiye"
 ---
-Kursumuz, öğretmenlerin ve öğretmen adaylarının “Temel Eğitimde Astronomi” konusunda bilgi ve becerilerini geliştirmek, her kesimden katılımcıların bilim merakını arttırmak amacı ile düzenlenmiştir. Ayrıntılı bilgi için başlığa tıklayınız. Kursumuza ilgi gösterenlere teşekkür ederiz, 20 kişilik kontejyandan kalan 8 kişilik kontejyan dolana kadar kayıtlar açık kalacaktır. Kursun başlama tarihi 08 Aralık 2018 olarak belirlenmiştir.
+Kursumuz, öğretmenlerin ve öğretmen adaylarının “Temel Eğitimde Astronomi” konusunda bilgi ve becerilerini geliştirmek, her kesimden katılımcıların bilim merakını arttırmak amacı ile düzenlenmiştir. Ayrıntılı bilgi için başlığa tıklayınız. Kursa ilgi gösterenlere teşekkür ederim, 20 kişilik kontejyandan kalan 8 kişilik kontejyan dolana kadar kayıtlar açık kalacaktır. Kursun başlama tarihi 08 Aralık 2018 olarak belirlenmiştir.
 
 
 * Milli Eğitim Bakanlığı’nın yeni müfretadına uygun, 
