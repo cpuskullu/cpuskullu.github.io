@@ -9,8 +9,8 @@ location: "Çanakkale, Türkiye"
 ---
 Kursumuz, öğretmenlerin ve öğretmen adaylarının “Temel Eğitimde Astronomi” konusunda bilgi ve becerilerini geliştirmek, her kesimden katılımcıların bilim merakını arttırmak amacı ile düzenlenmiştir. Ayrıntılı bilgi için başlığa tıklayınız.
 
-<b>Ders Günü ve Saati: </b> Her Pazartesi, 16:30 - 18:30 <br>
-<b>Ders Yeri: </b> Sürekli Eğitim Merkezi (Vitalis Cafe üstü)
+<b>Kurs Günü ve Saati: </b> Her Pazartesi, 16:30 - 18:30 <br>
+<b>Kurs Yeri: </b> Sürekli Eğitim Merkezi (Vitalis Cafe üstü)
 
 * Milli Eğitim Bakanlığı’nın yeni müfretadına uygun, 
 * İlk ve ortaöğretim için Astronomi ve Uzay Bilimleri konularını kapsayan bir içerik sunulmaktadır.
