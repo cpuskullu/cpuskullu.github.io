@@ -45,3 +45,5 @@ Kaynaklar
 Önkayıt formu sadece sınıf hazırlığı için gerekli olup, gerçek kayıt yerine geçmez. Kayıt için lütfen afişte belirtilen kanalları kullanınız.
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdcJB7B6C771J8_OlOcO5CqbQbW0mopsJrJS7e2vfOlC2zY8Q/viewform?embedded=true" width="640" height="980" frameborder="0" marginheight="0" marginwidth="0">Yükleniyor...</iframe>
 -->
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-130299748-1"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-130299748-1'); </script>
