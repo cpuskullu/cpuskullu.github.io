@@ -1,0 +1,32 @@
+---
+title: "Astronomi Seminerleri ve Gözlemevi"
+collection: astronomikursu
+type: ""
+permalink: /astronomikursu/gozlemevi
+venue: "ÇOMÜ Gözlemevi"
+date: 2019-07-01
+location: "Ulupınar Köyü, Çanakkale, Türkiye"
+---
+Gözlemevi ziyaretleri. Ayrıntılı bilgi için başlığa tıklayınız.
+
+<b>Ziyaret Günleri ve Saatleri: </b> Her Pzt. Çar ve Cu., 08:30 - 17:00 <br>
+<b>Ziyaret Yeri: </b> Ulupınar Köyü, Çanakkale, Türkiye
+<b>Eğitmenler: </b> Dr. Çağlar Püsküllü, Dr. Oğuz Öztürk, Murat İnanç Gözütok
+
+* İlk, ortaöğretim ve lise için Astronomi ve Uzay Bilimleri konularını kapsayan bir içerik sunulmaktadır.
+
+Ders İçerikleri
+======
+* Güneş Sistemi
+* Teleskop Gezisi
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-130299748-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-130299748-1');
+</script>
+
