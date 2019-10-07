@@ -10,7 +10,7 @@ location: "Ulupınar Köyü, Çanakkale, Türkiye"
 Gözlemevi ziyaretleri. Ayrıntılı bilgi için başlığa tıklayınız.
 
 <b>Ziyaret Günleri ve Saatleri: </b> Her Pzt. Çar ve Cu., 08:30 - 17:00 <br>
-<b>Ziyaret Yeri: </b> Ulupınar Köyü, Çanakkale, Türkiye
+<b>Ziyaret Yeri: </b> Ulupınar Köyü, Çanakkale, Türkiye <br>
 <b>Eğitmenler: </b> Dr. Çağlar Püsküllü, Dr. Oğuz Öztürk, Murat İnanç Gözütok
 
 Randevu almak için <a href='http://physics.comu.edu.tr/caam/ziyaretci_formu.php'> tıklayınız </a>
