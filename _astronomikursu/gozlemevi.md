@@ -13,6 +13,8 @@ Gözlemevi ziyaretleri. Ayrıntılı bilgi için başlığa tıklayınız.
 <b>Ziyaret Yeri: </b> Ulupınar Köyü, Çanakkale, Türkiye
 <b>Eğitmenler: </b> Dr. Çağlar Püsküllü, Dr. Oğuz Öztürk, Murat İnanç Gözütok
 
+Randevu almak için <a href='http://physics.comu.edu.tr/caam/ziyaretci_formu.php'> tıklayınız </a>
+
 * İlk, ortaöğretim ve lise için Astronomi ve Uzay Bilimleri konularını kapsayan bir içerik sunulmaktadır.
 
 Ders İçerikleri
