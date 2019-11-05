@@ -10,7 +10,7 @@ redirect_from:
 <table style="width:100%">
   <tr>
     <th><img src='images/homepage_sky_stars_sun.jpg'></th>
-    <th>test    
+    <th><iframe src="https://open.spotify.com/follow/1/?uri=spotify:artist:0lzoG451W9waNg9h3cTlLR&size=detail&theme=light" width="300" height="56" scrolling="no" frameborder="0" style="border:none; overflow:hidden;" allowtransparency="true"></iframe>    
     </th> 
   </tr> 
 </table>
