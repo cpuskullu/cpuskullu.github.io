@@ -10,8 +10,7 @@ redirect_from:
 <table style="width:100%">
   <tr>
     <th><img src='images/homepage_sky_stars_sun.jpg'></th>
-    <th>test
-      
+    <th>test    
     </th> 
   </tr> 
 </table>
