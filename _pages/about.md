@@ -18,6 +18,9 @@ Uyanır bakarsınız ki mavi. <br>
 Orhan Veli
 -->
 
+<!-- Spotify Artist -->
+<iframe src="https://open.spotify.com/embed/artist/0lzoG451W9waNg9h3cTlLR" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-130299748-1"></script>
 <script>
