@@ -10,11 +10,11 @@ redirect_from:
 <table style="width:100%">
   <tr>
     <th><img src='images/homepage_sky_stars_sun.jpg'></th>
-    <th><!-- Spotify Artist -->
+    <th>test
+      <!-- Spotify Artist -->
 <iframe src="https://open.spotify.com/embed/artist/0lzoG451W9waNg9h3cTlLR" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
     </th> 
-  </tr>
- 
+  </tr> 
 </table>
 
 <!-- İşim gücüm budur benim, <br>
