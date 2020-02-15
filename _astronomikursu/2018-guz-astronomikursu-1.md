@@ -30,7 +30,6 @@ Popüler Konular Üzerine Söyleşiler
 * Uzay Araştırmalarında Son Gelişmeler
 * Popüler Kültürde Uzay
 * Gökyüzü Fotoğrafçılığı
-* Antik Çağda Astronomi ve Mitolojiler
 
 Kaynaklar
 ======
