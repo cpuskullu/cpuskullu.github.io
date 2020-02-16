@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <img src='images/homepage_sky_stars_sun.jpg'>
-<!-- <iframe src="https://open.spotify.com/follow/1/?uri=spotify:artist:0lzoG451W9waNg9h3cTlLR&size=detail&theme=light" width="300" height="56" scrolling="no" frameborder="0" style="border:none; overflow:hidden;" allowtransparency="true"></iframe> -->
+<iframe src="https://open.spotify.com/follow/1/?uri=spotify:artist:0lzoG451W9waNg9h3cTlLR&size=detail&theme=light" width="300" height="56" scrolling="no" frameborder="0" style="border:none; overflow:hidden;" allowtransparency="true"></iframe>
 <!-- İşim gücüm budur benim, <br>
 Gökyüzünü boyarım her sabah, <br>
 Hepiniz uykudayken. <br>
