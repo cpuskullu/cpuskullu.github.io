@@ -21,6 +21,10 @@ Uyanır bakarsınız ki mavi. <br>
 Orhan Veli
 -->
 
+<p>
+<span id="badgeCont758"><script type="text/javascript" src="https://publons.com/mashlets?el=badgeCont758&rid=A-2972-2011"></script></span>
+</p>
+
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-130299748-1"></script>
 <script>
